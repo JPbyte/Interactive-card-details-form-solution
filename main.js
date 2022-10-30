@@ -140,9 +140,9 @@ inputCvc.addEventListener('input', () =>{
 })
 
 btn.addEventListener('click', (e) =>{
-    e.preventDefault
+    e.preventDefault;
 
-    if(inputName.value.length >= 4) {
+    if(inputName.value.length > 5) {
         inputName.style.border = "0.17rem green solid"
     } else {
         inputName.style.border = "0.17rem red solid"
