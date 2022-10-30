@@ -36,8 +36,8 @@ Desktop design
 
 ### Links
 
-- Solution URL: [Interactive card details form solution]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Interactive card details form solution](https://www.frontendmentor.io/solutions/interactive-card-details-form-solution-LcCepQK04o)
+- Live Site URL: [Add live site URL here](https://jpbyte.github.io/Interactive-card-details-form-solution/)
 
 ## My process
 
